@@ -16,6 +16,7 @@ header h1 {
     font-size: 40px;
 }
 ul {
+    padding: 0;
     margin:auto;
 }
 li {
