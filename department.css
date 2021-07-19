@@ -56,7 +56,7 @@ h1, h2, h3 {
 }
 @media (max-width: 900px) {
     .department {
-        margin: 20px 100px;
+        margin: 20px 40px;
     }  
 
 }
