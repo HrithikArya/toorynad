@@ -89,6 +89,13 @@ footer {
 
 }
 
+.maintext h3 {
+    font-size: 30px;
+}
+.maintext p {
+    font-size: 20px;
+    margin-top: 10px;
+}
 
 .footbar .navlist {
     color: whitesmoke;
