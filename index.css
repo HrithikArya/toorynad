@@ -8,7 +8,7 @@
 }
 
 header {
-    color: whitesmoke;
+    color: white;
     background-color: rgb(5, 85, 85);
 }
 
@@ -20,7 +20,7 @@ ul {
     margin:auto;
 }
 li {
-    color: whitesmoke;
+    color: white;
     padding: 20px;
     display: inline-block;
     list-style: none;
@@ -35,7 +35,7 @@ li {
 }
 
 li:hover {
-    color: whitesmoke;
+    color: white;
     background-color: rgb(185, 59, 59);
 
 
